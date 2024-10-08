@@ -1,0 +1,13 @@
+{
+	"Interaction ID": "interactionID",
+	"Title": "mainMenuTitle",
+	"Analytics Title": "mainMenuComponentSectionAnalyticsTitle",
+	"Section Title for Analytics": "mainMenuComponentTitle",
+	"Localized Section Title for Analytics": "mainMenuComponentLocalizedAnalyticsTitle",
+	"Most Valued Action (MVA)": "mainMenuMva",
+	"Most Valued Action Title for Analytics": "mainMenuComponentMVAAnalyticsTitle",
+	"Most Valued Action Type and Category": "mainMenuMvaValue",
+	"Most Valued Action (MVA) Secondary": "mainMenuSecondaryMva",
+	"Component Name":"componentname",
+	"_ID":"_id"
+}

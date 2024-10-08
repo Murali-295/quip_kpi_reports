@@ -1,0 +1,11 @@
+{
+	"0":"Interaction ID",
+	"1":"Title",
+	"2":"Analytics Title",
+	"3":"Most Valued Action (MVA)",
+	"4":"Most Valued Action Title for Analytics",
+	"5":"Most Valued Action Type and Category",
+	"6":"Most Valued Action (MVA) Secondary",
+	"7":"Component Name",
+	"8":"_ID"
+}

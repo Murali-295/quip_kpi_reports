@@ -1,0 +1,11 @@
+{
+	"Interaction ID":"interactionID",
+	"Title": "subMenuSectionHeading",
+	"Analytics Title": "subMenuSectionAnalyticsTitle",
+	"Most Valued Action (MVA)": "subMenuSectionMva",
+	"Most Valued Action Title for Analytics": "subMenuComponentMVAAnalyticsTitle",
+	"Most Valued Action Type and Category": "subMenuSectionMvaValue",
+	"Most Valued Action (MVA) Secondary": "subMenuSectionSecondaryMVA",
+	"Component Name":"componentname",
+	"_ID":"_id"
+}
